@@ -1,4 +1,4 @@
-
+## ✈️ Pre-Departure Checklist – Netherlands Soft Landing
 **Due: July 30, 2025**
 
 ### 🧾 Travel & Documents
@@ -48,7 +48,7 @@
 ### ✍️ Communication
 - [ ] 📩 Notify Kevin + Jan Versteegh (notary) of arrival window  
   🗓️ `due before 2025-07-30`
-- [ ] 🧑‍⚕️ Message Fokko, Teddy Kids,  (if scheduling meetups)  
+- [ ] 🧑‍⚕️ Message [[Jolles, Fokko]] and [[Miller, Josh]] (if scheduling meetups)  
   🗓️ `due before 2025-07-30`
 
 ---
