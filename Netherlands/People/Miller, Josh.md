@@ -25,3 +25,7 @@ Phone: +31 6 15592713
 
 ### [[2025-07-27]] 07:20 - Created
 
+Son: Noah
+Wife: 
+
+![[Pasted image 20250727115729.png]]
