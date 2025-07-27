@@ -6,7 +6,7 @@ created: ["2025-07-27 07:22"]
 # Kevin van Groeningen
 #person #person/casey.chambliss@gmail.com
 
- 
+ Real Estate Agent for [[Mahlerstraat 23]]
 
 ----
 
@@ -21,7 +21,5 @@ Phone: +31  06-24419419
 
 ----
 
-## Log
 
-### [[2025-07-27]] 07:22 - Created
 

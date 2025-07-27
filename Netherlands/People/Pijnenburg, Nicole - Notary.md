@@ -6,7 +6,7 @@ created: ["2025-07-27 12:13"]
 # Nicole Pijnenburg
 #person #person/casey.chambliss@gmail.com
 
-Notary 
+Notary for [[Mahlerstraat 23]]
 
 ----
 
@@ -21,7 +21,5 @@ Phone: +31 71 535 80 17
 
 ----
 
-## Log
 
-### [[2025-07-27]] 12:13 - Created
 
