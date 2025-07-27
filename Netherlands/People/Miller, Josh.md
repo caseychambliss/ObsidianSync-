@@ -26,6 +26,8 @@ Phone: +31 6 15592713
 ### [[2025-07-27]] 07:20 - Created
 
 Son: Noah
+Noah also named after great grandfather.  Noah Emerson, he and her grandmother after WW2 worked in Poland to help rebuild Warsaw.  Bess my wife’s dad was born in Brussels, put on a boat back to America so they could finish the work in post war.
+
 Wife: 
 
 ![[Pasted image 20250727115729.png]]
