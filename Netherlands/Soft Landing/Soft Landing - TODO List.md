@@ -1,0 +1,1 @@
+- [ ] Pack for Soft Landing trip 🔼 ➕ 2025-07-27 📅 2025-07-29
