@@ -5,7 +5,7 @@
 - [ ] 📅 Schedule Lyft
   🔁 `every trip`  
   🗓️ `due before 2025-07-30`
-- [ ] 🛂 Print and pack passport + Wise card + rental deed  
+- [ ] 🛂 Print and pack passport + Wise card + 
   🗓️ `due before 2025-07-30`
 - [ ] 📄 Print Wise IBAN, notary address, and flight confirmations  
   🗓️ `due before 2025-07-30`
