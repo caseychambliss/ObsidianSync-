@@ -1,30 +1,45 @@
-https://maps.app.goo.gl/AQbAQhUgd3LfSd4k8
 
-**Category:** Airbnb  
+**Type:** Entire Home / Apartment  
+**Host:** Amanda  
+**Platform:** Airbnb  
 **Location:** Leiden, Netherlands  
-**Type:** Accommodation  
 
 ---
 
 ### 📍 Address
-- 114 Levendaal  
+- Levendaal 114  
 - 2311 JN Leiden  
-- Netherlands
-
-### 📞 Contact Info
-- **Phone:** Not provided  
-- **Email:** Not provided  
+- Netherlands  
+- [📍 Google Maps](https://maps.app.goo.gl/AQbAQhUgd3LfSd4k8)
 
 ---
 
-### 🔖 Notes
-- Temporary lodging for soft landing in Leiden  
-- Saved in Google Contacts  
-- No phone or email listed yet  
-- Consider adding host contact details once available
+### 📅 Reservation Info
+- **Check-in:** Thursday, July 31, 2025 – 2:00 PM  
+- **Checkout:** Friday, August 8, 2025 – 10:00 AM  
+- **Guests:** 1 adult  
+- **Reservation code:** `HM54EDQ443`  
+- **Contact Host:** Amanda  
+  - 📱 +31 6 37278164  
+  - 📩 Message via Airbnb app
+
+---
+
+### 📌 House Rules
+- This is a privately-owned home – treat with care and respect  
+- Max occupancy: 2 guests  
+- **No pets allowed**
+
+---
+
+### 🧭 Notes
+- Temporary housing for Leiden soft landing prior to move-in at Mahlerstraat 23  
+- Coordinate with Amanda for arrival and key exchange  
+- Consider saving host contact info in your phone as: `Amanda - Leiden Airbnb`
 
 ---
 
 ### 🔗 Related
 - [[Soft Landing Checklist]]
 - [[Mahlerstraat 23 Move-In]]
+- [[Flight Itinerary to AMS – Jul 30]]
