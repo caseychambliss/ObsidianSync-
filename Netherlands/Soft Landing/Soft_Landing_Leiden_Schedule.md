@@ -35,22 +35,22 @@
 - [ ] ⏰ **20:00 CEST** / 13:00:00 CST – Sleep (`04:00:00`)
 
 ### Day 4 – Sun, Aug 03, 2025
-- [ ] ⏰ **09:00 CEST** / 02:00:00 CST – Clean Mahlerstraat (kitchen + bath) if access is convenient 
+- [ ] ⏰ **09:00 CEST** / 02:00:00 CST – Clean [[Mahlerstraat 23]] (kitchen + bath) if access is convenient 
 - [ ] ⏰ **12:00 CEST** / 05:00:00 CST – Unpack starter kitchenware + power setup (as possible) (`03:00:00`)
 - [ ] ⏰ **15:00 CEST** / 08:00:00 CST – Scout local shops for delivery needs (`03:00:00`)
-- [ ] ⏰ **16:30 CEST** / 09:30:00 CST – Optional: Meet Josh Miller (`01:30:00`)
+- [ ] ⏰ **16:30 CEST** / 09:30:00 CST – Optional: Meet [[Miller, Josh]] (`01:30:00`)
 - [ ] ⏰ **20:00 CEST** / 13:00:00 CST – Sleep (`03:30:00`)
 
 ### Day 5 – Mon, Aug 04, 2025
 - [ ] ⏰ **09:00 CEST** / 02:00:00 CST – Order missing essentials (bed linens, pillows, etc) 
 - [ ] ⏰ **11:00 CEST** / 04:00:00 CST – Set up online portals: Tibber + Dunea (`02:00:00`)
 - [ ] ⏰ **14:00 CEST** / 07:00:00 CST – Check delivery ETA for bedframes & towels (`03:00:00`)
-- [ ] ⏰ **15:00 CEST** / 08:00:00 CST – Optional: Meet with Fokko (`01:00:00`)
+- [ ] ⏰ **15:00 CEST** / 08:00:00 CST – Optional: Meet with [[Jolles, Fokko]] (`01:00:00`)
 - [ ] ⏰ **20:00 CEST** / 13:00:00 CST – Sleep (`05:00:00`)
 
 ### Day 6 – Tue, Aug 05, 2025
 - [ ] ⏰ **09:00 CEST** / 02:00:00 CST – Buy storage bin for dog food, pet supplies, cleaning tools
-- [ ] ⏰ **10:00 CEST** / 03:00:00 CST – Tour Teddy Kids (`01:00:00`)
+- [ ] ⏰ **10:00 CEST** / 03:00:00 CST – Tour [[Teddy Kids Daycare Leiden – Zeemanlaan]] (`01:00:00`)
 - [ ] ⏰ **12:00 CEST** / 05:00:00 CST – Install any delivered items (e.g. beds, sheets) (`02:00:00`)
 - [ ] ⏰ **15:00 CEST** / 08:00:00 CST – Setup [[Mahlerstraat 23]] only if fully equipped (`03:00:00`)
 - [ ] ⏰ **20:00 CEST** / 13:00:00 CST – Sleep (`05:00:00`)
