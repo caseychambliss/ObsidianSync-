@@ -1,5 +1,4 @@
-## ✈️ Pre-Departure Checklist – Netherlands Soft Landing
-**Due: July 30, 2025**
+
 
 ### 🧾 Travel & Documents
 - [ ] 📅 Schedule Lyft
