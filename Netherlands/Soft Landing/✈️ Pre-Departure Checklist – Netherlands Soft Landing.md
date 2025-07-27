@@ -48,7 +48,7 @@
 ### ✍️ Communication
 - [ ] 📩 Notify Kevin + Jan Versteegh (notary) of arrival window  
   🗓️ `due before 2025-07-30`
-- [ ] 🧑‍⚕️ Message Fokko, Teddy Kids, Josh (if scheduling meetups)  
+- [ ] 🧑‍⚕️ Message Fokko, Teddy Kids,  (if scheduling meetups)  
   🗓️ `due before 2025-07-30`
 
 ---
