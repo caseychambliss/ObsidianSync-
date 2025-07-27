@@ -46,7 +46,7 @@
   🗓️ `due before 2025-07-30`
 
 ### ✍️ Communication
-- [ ] 📩 Notify [[van Groeningen, Kevin]] + Jan Versteegh (notary) of arrival window  
+- [ ] 📩 Notify [[van Groeningen, Kevin]] + [[Pijnenburg, Nicole - Notary]] of arrival window  
   🗓️ `due before 2025-07-30`
 - [ ] 🧑‍⚕️ Message [[Jolles, Fokko]] and [[Miller, Josh]] (if scheduling meetups)  
   🗓️ `due before 2025-07-30`
