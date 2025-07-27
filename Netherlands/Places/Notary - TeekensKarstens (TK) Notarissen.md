@@ -29,4 +29,4 @@
 ---
 
 ### 🔖 Notes
-- Office of Jan Versteegh, notar
+- Office of [[Pijnenburg, Nicole - Notary]]
