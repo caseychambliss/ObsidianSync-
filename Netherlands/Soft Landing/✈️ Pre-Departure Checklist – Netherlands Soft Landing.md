@@ -2,7 +2,7 @@
 **Due: July 30, 2025**
 
 ### 🧾 Travel & Documents
-- [ ] 📅 Schedule airport taxi or parking  
+- [ ] 📅 Schedule Lyft
   🔁 `every trip`  
   🗓️ `due before 2025-07-30`
 - [ ] 🛂 Print and pack passport + Wise card + rental deed  
