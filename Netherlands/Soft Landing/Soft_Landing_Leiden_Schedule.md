@@ -22,7 +22,7 @@
 - [ ] ⏰ **20:00 CEST** / 13:00:00 CST – Sleep (`04:00:00`)
 
 ### Day 3 – Sat, Aug 02, 2025
-- [ ] ⏰ **09:00 CEST** / 02:00:00 CST – Transfer utilities (Tibber + Dunea) (`1899-12-29 13:00:00`)
+- [ ] ⏰ **09:00 CEST** / 02:00:00 CST – Transfer utilities ([[Leiden Electricity - Tibber]] + Dunea) (`1899-12-29 13:00:00`)
 - [ ] ⏰ **11:00 CEST** / 04:00:00 CST – Book internet + set up Afvalwijzer (Garbage) app (`02:00:00`) — _Must be in country to setup app._ [[App URL]]  / [[Garbage Website]]
 - [ ] ⏰ **14:00 CEST** / 07:00:00 CST – Buy trash bags, GFT liners (`03:00:00`)
 - [ ] ⏰ **16:00 CEST** / 09:00:00 CST – Tidy Airbnb / organize for move-in prep (`02:00:00`)
