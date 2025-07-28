@@ -41,7 +41,9 @@
 
 ### Day 5 – Mon, Aug 04, 2025
 - [ ] ⏰ **09:00 CEST** / 02:00:00 CST – Order missing essentials (bed linens, pillows, etc)
-- [ ] ⏰ **11:00 CEST** / 04:00:00 CST – Set up online portals: Tibber + Dunea (`02:00:00`)
+- [ ] ⏰ **11:00 CEST** / 04:00:00 CST – Set up online portals (`02:00:00`) 
+	- [ ] [[Leiden Electricity Utility - Tibber]] 
+	- [ ] [[Leiden Water Utility - Dunea]] 
 - [ ] ⏰ **14:00 CEST** / 07:00:00 CST – Check delivery ETA for bedframes & towels (`03:00:00`)
 - [ ] ⏰ **15:00 CEST** / 08:00:00 CST – Optional: Meet with [[Jolles, Fokko]] (`01:00:00`)
 - [ ] ⏰ **20:00 CEST** / 13:00:00 CST – Sleep (`05:00:00`)
