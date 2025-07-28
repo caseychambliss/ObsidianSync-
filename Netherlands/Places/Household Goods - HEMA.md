@@ -1,4 +1,6 @@
-## 🧺 HEMA – Haarlemmerstraat
+HEMA – Haarlemmerstraat
+
+Google App: https://play.google.com/store/apps/details?id=nl.hema.mobiel 
 
 **Type:** General Retail / Household Essentials  
 **Location:** Leiden, Netherlands  

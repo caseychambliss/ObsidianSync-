@@ -9,7 +9,7 @@
 - [ ] ⏰ **15:00 CEST** / 08:00:00 CST – Check in at [[Airbnb - 114 Levendaal]] (`01:00:00`)
 - [ ] ⏰ **15:30 CEST** / 08:30:00 CST – Groceries + power strips + cleaning basics (`00:30:00`)
 	- [ ] [[Cheese Shop - Kaasspeciaalzaak van boheemen]] - Locally Made Fermented Cheeses (for gut biome)
-	- [ ] 
+	- [ ] [[Household Goods - HEMA]] - Cleaning supplies
 - [ ] ⏰ **17:00 CEST** / 10:00:00 CST – Neighborhood orientation walk (`01:30:00`)
 - [ ] ⏰ **18:00 CEST** / 11:00:00 CST – Wind-down (soft lighting) (`01:00:00`)
 - [ ] ⏰ **20:00 CEST** / 13:00:00 CST – Sleep (`02:00:00`)
