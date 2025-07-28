@@ -109,4 +109,5 @@ Questions
 	4. Linens
 2. Where can I arrange for a washing machine to be installed?
 	1. Is there a location where a washing machine can be installed? 
-3. 
+3. Where is the closest pharmacy to [[Mahlerstraat 23]] (Thanks Kim!)
+4. What is the procedure for 911 like help if needed near our home? 
