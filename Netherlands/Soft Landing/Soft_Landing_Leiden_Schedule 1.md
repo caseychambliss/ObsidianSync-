@@ -6,7 +6,7 @@
 ### Day 1 – Thu, Jul 31, 2025
 - [ ] ⏰ **13:00 CEST** / 06:00:00 CST – Arrive at Schiphol → ATM → Buy SIM
 - [ ] ⏰ **14:00 CEST** / 07:00:00 CST – Train to Leiden Centraal (`01:00:00`)
-- [ ] ⏰ **15:00 CEST** / 08:00:00 CST – Check in at [[Airbnb Leiden – 114 Levendaal]] (`01:00:00`)
+- [ ] ⏰ **15:00 CEST** / 08:00:00 CST – Check in at [[Airbnb - 114 Levendaal]] (`01:00:00`)
 - [ ] ⏰ **15:30 CEST** / 08:30:00 CST – Groceries + power strips + cleaning basics (`00:30:00`)
 - [ ] ⏰ **17:00 CEST** / 10:00:00 CST – Neighborhood orientation walk (`01:30:00`)
 - [ ] ⏰ **18:00 CEST** / 11:00:00 CST – Wind-down (soft lighting) (`01:00:00`)
@@ -17,7 +17,7 @@
 - [ ] ⏰ **10:30 CEST** / 03:30:00 CST – Notary appointment – [[Notary - TeekensKarstens (TK) Notarissen]] (`00:45:00`)
 - [ ] ⏰ **12:00 CEST** / 05:00:00 CST – Celebrate with lunch + rest (`01:30:00`)
 - [ ] ⏰ **14:00 CEST** / 07:00:00 CST – Furniture walkthrough, photograph inventory, baby gate inspection (`02:00:00`)
-- [ ] ⏰ **16:00 CEST** / 09:00:00 CST – Return to [[Airbnb Leiden – 114 Levendaal]] (stay until beds/towels delivered) (`02:00:00`)
+- [ ] ⏰ **16:00 CEST** / 09:00:00 CST – Return to [[Airbnb - 114 Levendaal]] (stay until beds/towels delivered) (`02:00:00`)
 - [ ] ⏰ **20:00 CEST** / 13:00:00 CST – Sleep (`04:00:00`)
 
 ### Day 3 – Sat, Aug 02, 2025
@@ -27,7 +27,7 @@
 - [ ] ⏰ **11:00 CEST** / 04:00:00 CST – Book internet ????  
   - [ ] Set up Afvalwijzer (Garbage) app – Must be in country to setup app. [[App URL]] / [[Garbage Website]]
 - [ ] ⏰ **14:00 CEST** / 07:00:00 CST – Buy trash bags, GFT liners (`03:00:00`)
-- [ ] ⏰ **16:00 CEST** / 09:00:00 CST – Tidy [[Airbnb Leiden – 114 Levendaal]] / organize for move-in prep (`02:00:00`)
+- [ ] ⏰ **16:00 CEST** / 09:00:00 CST – Tidy [[Airbnb - 114 Levendaal]] / organize for move-in prep (`02:00:00`)
 - [ ] ⏰ **20:00 CEST** / 13:00:00 CST – Sleep (`04:00:00`)
 
 ### Day 4 – Sun, Aug 03, 2025
@@ -70,7 +70,7 @@
 - [ ] ⏰ **20:00 CEST** / 13:00:00 CST – Sleep (`04:00:00`)
 
 ### Day 9 – Fri, Aug 08, 2025
-- [ ] ⏰ **07:30 CEST** / 00:30:00 CST – Pack and clean [[Airbnb Leiden – 114 Levendaal]] (`01:30:00`)
+- [ ] ⏰ **07:30 CEST** / 00:30:00 CST – Pack and clean [[Airbnb - 114 Levendaal]] (`01:30:00`)
 
 ### Day 10 – Sat, Aug 09, 2025
 - [ ] ⏰ **09:00 CEST** / 02:00:00 CST – Optional: Buffer day for additional errands or deliveries (`01:30:00`)

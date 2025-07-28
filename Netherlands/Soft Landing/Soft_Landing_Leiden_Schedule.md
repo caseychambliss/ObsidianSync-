@@ -18,7 +18,7 @@
 - [ ] ⏰ **10:30 CEST** / 03:30:00 CST – Notary appointment – [[Notary - TeekensKarstens (TK) Notarissen]] (`00:45:00`)
 - [ ] ⏰ **12:00 CEST** / 05:00:00 CST – Celebrate with lunch + rest (`01:30:00`)
 - [ ] ⏰ **14:00 CEST** / 07:00:00 CST – Furniture walkthrough, photograph inventory, baby gate inspection (`02:00:00`)
-- [ ] ⏰ **16:00 CEST** / 09:00:00 CST – Return to [[Airbnb Leiden – 114 Levendaal]] (stay until beds/towels delivered) (`02:00:00`)
+- [ ] ⏰ **16:00 CEST** / 09:00:00 CST – Return to [[Airbnb - 114 Levendaal]] (stay until beds/towels delivered) (`02:00:00`)
 - [ ] ⏰ **20:00 CEST** / 13:00:00 CST – Sleep (`04:00:00`)
 
 ### Day 3 – Sat, Aug 02, 2025
@@ -31,7 +31,7 @@
 		- [ ] (`02:00:00`) 
 		- [ ] Must be in country to setup app._ [[App URL]]  / [[Garbage Website]]
 - [ ] ⏰ **14:00 CEST** / 07:00:00 CST – Buy trash bags, GFT liners (`03:00:00`)
-- [ ] ⏰ **16:00 CEST** / 09:00:00 CST – Tidy [[Airbnb Leiden – 114 Levendaal]] / organize for move-in prep (`02:00:00`)
+- [ ] ⏰ **16:00 CEST** / 09:00:00 CST – Tidy [[Airbnb - 114 Levendaal]] / organize for move-in prep (`02:00:00`)
 - [ ] ⏰ **20:00 CEST** / 13:00:00 CST – Sleep (`04:00:00`)
 
 ### Day 4 – Sun, Aug 03, 2025

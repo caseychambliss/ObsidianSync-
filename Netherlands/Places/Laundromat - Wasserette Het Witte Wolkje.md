@@ -28,4 +28,4 @@
 
 ### 🔗 Related
 - [[Soft_Landing_Leiden_Schedule]]
-- [[Airbnb Leiden – 114 Levendaal]]
+- [[Airbnb - 114 Levendaal]]
