@@ -96,3 +96,14 @@
 - [ ] ⏰ **18:23 CEST** / 11:23:00 CST – Layover in Minneapolis (1h 27m) (`08:43:00`)
 - [ ] ⏰ **19:50 CEST** / 12:50:00 CST – Flight Departs: MSP → BNA (DL1044) (`01:27:00`)
 - [ ] ⏰ **21:51 CEST** / 14:51:00 CST – Arrive in Nashville (BNA) (`02:01:00`)
+
+
+Questions
+1. When will the following be delivered and to what address?
+	1. Mattresses
+	2. Bed Frames 
+	3. Towels
+	4. Linens
+2. Where can I arrange for a washing machine to be installed?
+	1. Is there a location where a washing machine can be installed? 
+3. 
