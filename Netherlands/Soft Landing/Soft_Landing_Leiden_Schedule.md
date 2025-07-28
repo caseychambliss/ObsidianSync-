@@ -8,6 +8,7 @@
 - [ ] ⏰ **14:00 CEST** / 07:00:00 CST – Train to Leiden Centraal (`01:00:00`)
 - [ ] ⏰ **15:00 CEST** / 08:00:00 CST – Check in at [[Airbnb - 114 Levendaal]] (`01:00:00`)
 - [ ] ⏰ **15:30 CEST** / 08:30:00 CST – Groceries + power strips + cleaning basics (`00:30:00`)
+	- [ ] 
 	- [ ] [[Cheese Shop - Kaasspeciaalzaak van boheemen]] - Locally Made Fermented Cheeses (for gut biome)
 	- [ ] [[Household Goods - HEMA]] - Cleaning
 	- [ ] [[Electronics & Appliances - Coolblue – Breestraat]] - Power strips, washing machines
