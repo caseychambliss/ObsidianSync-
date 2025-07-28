@@ -23,8 +23,8 @@
 
 ### Day 3 – Sat, Aug 02, 2025
 - [ ] ⏰ **09:00 CEST** / 02:00:00 CST – Transfer utilities
-	- [ ] [[Leiden Electricity Utility - Tibber]]
-	- [ ] [[Leiden Water Utility - Dunea]]
+	- [ ] [[Utility - Leiden Electricity - Tibber]]
+	- [ ] [[Utility - Leiden Water - Dunea]]
 - [ ] ⏰ **11:00 CEST** / 04:00:00 CST
 	- [ ] Book internet ????
 	- [ ] Set up Afvalwijzer (Garbage) app

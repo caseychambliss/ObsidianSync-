@@ -22,8 +22,8 @@
 
 ### Day 3 – Sat, Aug 02, 2025
 - [ ] ⏰ **09:00 CEST** / 02:00:00 CST – Transfer utilities  
-  - [ ] [[Leiden Electricity Utility - Tibber]]  
-  - [ ] [[Leiden Water Utility - Dunea]]
+  - [ ] [[Utility - Leiden Electricity - Tibber]]  
+  - [ ] [[Utility - Leiden Water - Dunea]]
 - [ ] ⏰ **11:00 CEST** / 04:00:00 CST – Book internet ????  
   - [ ] Set up Afvalwijzer (Garbage) app – Must be in country to setup app. [[App URL]] / [[Garbage Website]]
 - [ ] ⏰ **14:00 CEST** / 07:00:00 CST – Buy trash bags, GFT liners (`03:00:00`)
@@ -42,8 +42,8 @@
 ### Day 5 – Mon, Aug 04, 2025
 - [ ] ⏰ **09:00 CEST** / 02:00:00 CST – Order missing essentials (bed linens, pillows, etc)
 - [ ] ⏰ **11:00 CEST** / 04:00:00 CST – Set up online portals (`02:00:00`) 
-	- [ ] [[Leiden Electricity Utility - Tibber]] 
-	- [ ] [[Leiden Water Utility - Dunea]] 
+	- [ ] [[Utility - Leiden Electricity - Tibber]] 
+	- [ ] [[Utility - Leiden Water - Dunea]] 
 - [ ] ⏰ **14:00 CEST** / 07:00:00 CST – Check delivery ETA for bedframes & towels (`03:00:00`)
 - [ ] ⏰ **15:00 CEST** / 08:00:00 CST – Optional: Meet with [[Jolles, Fokko]] (`01:00:00`)
 - [ ] ⏰ **20:00 CEST** / 13:00:00 CST – Sleep (`05:00:00`)
