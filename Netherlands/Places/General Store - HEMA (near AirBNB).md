@@ -31,7 +31,7 @@ Google App: https://play.google.com/store/apps/details?id=nl.hema.mobiel
 ---
 
 ### 🧾 Notes
-- Walkable from both [[Airbnb Leiden – 114 Levendaal]] and [[Mahlerstraat 23]]  
+- Walkable from [[Airbnb Leiden – 114 Levendaal]] 
 - Carries affordable linens, basic kitchenware, toiletries, and children’s items  
 - Offers in-store bakery and some seasonal goods  
 - Great for quick replacements or forgotten essentials after move-in
@@ -41,5 +41,4 @@ Google App: https://play.google.com/store/apps/details?id=nl.hema.mobiel
 ### 🔗 Related
 - [[Soft_Landing_Leiden_Schedule]]
 - [[Dutch Home Setup Essentials]]
-- [[Mahlerstraat 23]]
 - [[Airbnb Leiden – 114 Levendaal]]
