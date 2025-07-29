@@ -9,7 +9,6 @@
 - [ ] ⏰ **15:00 CEST** / 08:00:00 CST – Check in at [[Airbnb - 114 Levendaal]] (`01:00:00`)
 - [ ] ⏰ **15:30 CEST** / 08:30:00 CST – Groceries + power strips + cleaning basics (`00:30:00`)
 	- [ ] BEST ROUTE: https://maps.app.goo.gl/ypagvxxNjPfzLtbD9
-	- [ ] [[Cell Phone - KPN Store – Leiden]]
 	- [ ] [[Cheese Shop - Kaasspeciaalzaak van boheemen]] - Locally Made Fermented Cheeses (for gut biome)
 	- [ ] [[Household Goods - HEMA]] - Cleaning
 	- [ ] [[Electronics & Appliances - Coolblue – Breestraat]] - Power strips, washing machines
