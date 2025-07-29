@@ -1,5 +1,7 @@
 HEMA – Haarlemmerstraat
 
+Close to [[Airbnb - 114 Levendaal]]
+
 Google App: https://play.google.com/store/apps/details?id=nl.hema.mobiel 
 
 **Type:** General Retail / Household Essentials  

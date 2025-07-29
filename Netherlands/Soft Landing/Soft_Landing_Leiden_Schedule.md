@@ -8,8 +8,8 @@
 - [ ] ⏰ **14:00 CEST** / 07:00:00 CST – Train to Leiden Centraal (`01:00:00`)
 - [ ] ⏰ **15:00 CEST** / 08:00:00 CST – Check in at [[Airbnb - 114 Levendaal]] (`01:00:00`)
 - [ ] ⏰ **15:30 CEST** / 08:30:00 CST – Neighborhood orientation walk (`02:30:00`)
-	- [ ] [[Cheese Shop - Kaasspeciaalzaak van boheemen]] - Locally Made Fermented Cheeses (for gut biome)
-	- [ ] [[Household Goods - HEMA]] - See what they have in stock, get instant coffee 
+	- [ ] [[Food - Cheese Shop - Kaasspeciaalzaak van boheemen]] - Locally Made Fermented Cheeses (for gut biome)
+	- [ ] [[General Store - HEMA]] - See what they have in stock, get instant coffee 
 	- [ ] [[Electronics & Appliances - Coolblue – Breestraat]] - Check it out for Power strips, washing machines, etc
 - [ ] ⏰ **18:00 CEST** / 11:00:00 CST – Wind-down (soft lighting) (`01:00:00`)
 - [ ] ⏰ **20:00 CEST** / 13:00:00 CST – Sleep (`02:00:00`)
@@ -53,7 +53,7 @@
 
 ### Day 6 – Tue, Aug 05, 2025
 - [ ] ⏰ **09:00 CEST** / 02:00:00 CST – Buy storage bin for dog food, pet supplies, cleaning tools
-- [ ] ⏰ **10:00 CEST** / 03:00:00 CST – Tour [[Teddy Kids Daycare Leiden – Zeemanlaan]] (`01:00:00`)
+- [ ] ⏰ **10:00 CEST** / 03:00:00 CST – Tour [[Daycare - Teddy Kids - Leiden – Zeemanlaan]] (`01:00:00`)
 - [ ] ⏰ **12:00 CEST** / 05:00:00 CST – Install any delivered items (e.g. beds, sheets) (`02:00:00`)
 - [ ] ⏰ **15:00 CEST** / 08:00:00 CST – Setup [[Mahlerstraat 23]] only if fully equipped (`03:00:00`)
 - [ ] ⏰ **20:00 CEST** / 13:00:00 CST – Sleep (`05:00:00`)
