@@ -4,8 +4,6 @@ Close to [[Mahlerstraat 23]]
 
 Google App: https://play.google.com/store/apps/details?id=nl.hema.mobiel 
 
-## 🛍️ Action – Leiden (Closest to Mahlerstraat 23)
-
 **Address:**  
 Kennedylaan 9 A  
 2324 ER Leiden, Netherlands
@@ -24,5 +22,5 @@ Kennedylaan 9 A
 - **Sunday:** 10:00 – 18:00
 
 **📝 Notes:**  
-- Closest Action location to Mahlerstraat 23 (≈5–7 min walk).  
+- Closest Action location to [[Mahlerstraat 23]] (≈5–7 min walk).  
 - Great for cleaning supplies, low-cost housewares, and seasonal items.
