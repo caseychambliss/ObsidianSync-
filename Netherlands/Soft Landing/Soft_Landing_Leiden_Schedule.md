@@ -4,7 +4,7 @@
 - [ ] ⏰ **04:50 CEST** / 21:50:00 CST – Flight Departs: MSP → AMS (DL0164) (`01:09:00`)
 
 ### Day 1 – Thu, Jul 31, 2025
-- [ ] ⏰ **13:00 CEST** / 06:00:00 CST – Arrive at Schiphol → ATM → Buy SIM
+- [ ] ⏰ **13:00 CEST** / 06:00:00 CST – Arrive at Schiphol → ATM 
 - [ ] ⏰ **14:00 CEST** / 07:00:00 CST – Train to Leiden Centraal (`01:00:00`)
 - [ ] ⏰ **15:00 CEST** / 08:00:00 CST – Check in at [[Airbnb - 114 Levendaal]] (`01:00:00`)
 - [ ] ⏰ **15:30 CEST** / 08:30:00 CST – Neighborhood orientation walk (`02:30:00`)
