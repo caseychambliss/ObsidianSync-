@@ -7,12 +7,10 @@
 - [ ] ⏰ **13:00 CEST** / 06:00:00 CST – Arrive at Schiphol → ATM → Buy SIM
 - [ ] ⏰ **14:00 CEST** / 07:00:00 CST – Train to Leiden Centraal (`01:00:00`)
 - [ ] ⏰ **15:00 CEST** / 08:00:00 CST – Check in at [[Airbnb - 114 Levendaal]] (`01:00:00`)
-- [ ] ⏰ **15:30 CEST** / 08:30:00 CST – Groceries + power strips + cleaning basics (`00:30:00`)
-	- [ ] BEST ROUTE: https://maps.app.goo.gl/ypagvxxNjPfzLtbD9
+- [ ] ⏰ **15:30 CEST** / 08:30:00 CST – Neighborhood orientation walk (`02:30:00`)
 	- [ ] [[Cheese Shop - Kaasspeciaalzaak van boheemen]] - Locally Made Fermented Cheeses (for gut biome)
-	- [ ] [[Household Goods - HEMA]] - Cleaning
-	- [ ] [[Electronics & Appliances - Coolblue – Breestraat]] - Power strips, washing machines
-- [ ] ⏰ **17:00 CEST** / 10:00:00 CST – Neighborhood orientation walk (`01:30:00`)
+	- [ ] [[Household Goods - HEMA]] - See what they have in stock, get instant coffee 
+	- [ ] [[Electronics & Appliances - Coolblue – Breestraat]] - Check it out for Power strips, washing machines, etc
 - [ ] ⏰ **18:00 CEST** / 11:00:00 CST – Wind-down (soft lighting) (`01:00:00`)
 - [ ] ⏰ **20:00 CEST** / 13:00:00 CST – Sleep (`02:00:00`)
 
