@@ -74,3 +74,28 @@ Please note that parking in the street is limited; we recommend using the nearby
 - [[Soft Landing Checklist]]
 - [[Mahlerstraat 23 Move-In]]
 - [[Flight Itinerary to AMS – Jul 30]]
+
+
+Hier is de vertaling van de tekst naar het Engels:
+
+
+---
+
+Amanda
+Host
+Hi Amelia, your husband's stay starts tomorrow. Here are a few important things to know:
+
+Check-in: You can check in at any time. The key is in a lockbox by the front door. The code to open the box is 2474.
+
+Storage: Some cupboards are taped shut; these contain my personal belongings. All other cupboards and their contents are free to use.
+
+Tap (cooker): The right-hand (cooker) tap was recently installed and is not yet fully connected. It cannot be used. For hot water, you can use the kettle.
+
+Wi-Fi: Access the Wi-Fi via the QR code on the modem in the kitchen.
+
+Waste disposal: You can throw out waste in a container across the street. To open the container, you need a card. This card is located by the front door.
+
+Check-out: When checking out, please make sure all the lights are off and all doors are locked. The key can be returned to the lockbox next to the front door.
+
+
+I wish your husband a pleasant stay! If he has any questions about the house or wants tips about Leiden, feel free to contact me.
