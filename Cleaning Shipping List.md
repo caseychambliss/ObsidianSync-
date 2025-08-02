@@ -3,4 +3,7 @@
 3. Spray bottles 
 4. Mop
 5. Vinegar 
-6. 
+6. OxiClean 
+7. Toilet bowl cleaner 
+8. Toilet bowl brush 
+9. 
