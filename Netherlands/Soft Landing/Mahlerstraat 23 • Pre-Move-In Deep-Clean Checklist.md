@@ -154,7 +154,7 @@
 - [ ] Telescopic duster pole (3 m reach)  
 - [ ] Laminate-safe floor cleaner (pH-neutral)  
 - [ ] Extra micro-fibre mop pads  
-- [ ] Box of nitrile gloves  
+- [x] Box of nitrile gloves ✅ 2025-08-04
 - [ ] FFP2 mask  
 - [ ] UV flashlight (optional)  
 - [ ] Cable ties or Velcro straps  
