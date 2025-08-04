@@ -12,7 +12,7 @@
 ## Block A – Upstairs bedrooms (≈4 h)
 
 ### Second-Floor Guest Bedroom
-- [ ] Empty drawers and wardrobes, vacuum interiors  
+- [x] Empty drawers and wardrobes, vacuum interiors ✅ 2025-08-04
 - [ ] Wipe interiors with diluted Blue Wonder (1 : 10)  
 - [ ] Dust textured walls using microfiber cloth on broom handle  
 - [ ] Clean light fixture and switch plate  
