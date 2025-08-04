@@ -1,7 +1,7 @@
 ## 0 Prep (≈1 h)
 - [ ] Stage two buckets: one hot soapy water (dish soap + Blue Wonder) and one rinse bucket  
 - [ ] Open all windows slightly for airflow  
-- [ ] Put dishwasher on an empty descaling cycle (Sun Optimum or Spargo)  
+- [x] Put dishwasher on an empty descaling cycle (Sun Optimum or Spargo) ✅ 2025-08-04
 - [ ] Remove kitchen hood filters and soak in hot soapy water  
 - [ ] Gather every loose power or network cable into one box  
 - [ ] Fit vacuum with soft brush head and crevice tool  
