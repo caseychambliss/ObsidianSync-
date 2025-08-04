@@ -2,7 +2,7 @@
 - [ ] Stage two buckets: one hot soapy water (dish soap + Blue Wonder) and one rinse bucket  
 - [ ] Open all windows slightly for airflow  
 - [x] Put dishwasher on an empty descaling cycle (Sun Optimum or Spargo) ✅ 2025-08-04
-- [ ] Remove kitchen hood filters and soak in hot soapy water  
+- [x] Remove kitchen hood filters and soak in hot soapy water ✅ 2025-08-04
 - [ ] Gather every loose power or network cable into one box  
 - [ ] Fit vacuum with soft brush head and crevice tool  
 - [ ] Put on nitrile gloves and FFP2 mask for bleach tasks  
