@@ -13,7 +13,7 @@
 
 ### Second-Floor Guest Bedroom
 - [x] Empty drawers and wardrobes, vacuum interiors ✅ 2025-08-04
-- [ ] Wipe interiors with diluted Blue Wonder (1 : 10)  
+- [x] Wipe interiors with diluted Blue Wonder (1 : 10) ✅ 2025-08-05
 - [ ] Dust textured walls using microfiber cloth on broom handle  
 - [ ] Clean light fixture and switch plate  
 - [ ] Clean window tracks, handle, inside and outside glass  
