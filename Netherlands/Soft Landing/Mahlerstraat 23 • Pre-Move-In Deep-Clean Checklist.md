@@ -27,10 +27,10 @@
 - [ ] Vacuum and damp-mop laminate floor  
 
 ### First-Floor Willa’s Bedroom
-- [ ] Empty dresser, vacuum and wipe inside  
-- [ ] Dust walls, blinds and light fixture  
+- [x] Empty dresser, vacuum and wipe inside ✅ 2025-08-06
+- [x] Dust walls, blinds and light fixture ✅ 2025-08-06
 - [ ] Clean window glass and frame  
-- [ ] Vacuum and damp-mop floor  
+- [x] Vacuum and damp-mop floor ✅ 2025-08-06
 
 ### Hall and Stairs (first and second floor)
 - [ ] Vacuum stair treads then damp-wipe railing  
