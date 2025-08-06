@@ -14,17 +14,17 @@
 ### Second-Floor Guest Bedroom
 - [x] Empty drawers and wardrobes, vacuum interiors ✅ 2025-08-04
 - [x] Wipe interiors with diluted Blue Wonder (1 : 10) ✅ 2025-08-05
-- [ ] Dust textured walls using microfiber cloth on broom handle  
-- [ ] Clean light fixture and switch plate  
+- [x] Dust textured walls using microfiber cloth on broom handle ✅ 2025-08-06
+- [x] Clean light fixture and switch plate ✅ 2025-08-06
 - [ ] Clean window tracks, handle, inside and outside glass  
-- [ ] Vacuum floor edges, then damp-mop laminate (pH-neutral cleaner)  
+- [x] Vacuum floor edges, then damp-mop laminate (pH-neutral cleaner) ✅ 2025-08-06
 
 ### First-Floor Main Bedroom
-- [ ] Empty dresser and wardrobe, vacuum and wipe interiors  
-- [ ] Dust walls and blinds, wipe blinds with APC solution  
-- [ ] Check curtains – decide to launder or discard  
+- [x] Empty dresser and wardrobe, vacuum and wipe interiors ✅ 2025-08-06
+- [x] Dust walls and blinds, wipe blinds with APC solution ✅ 2025-08-06
+- [x] Check curtains – decide to launder or discard ✅ 2025-08-06
 - [ ] Clean door tops, frames and window glass  
-- [ ] Vacuum and damp-mop laminate floor  
+- [x] Vacuum and damp-mop laminate floor ✅ 2025-08-06
 
 ### First-Floor Willa’s Bedroom
 - [x] Empty dresser, vacuum and wipe inside ✅ 2025-08-06
