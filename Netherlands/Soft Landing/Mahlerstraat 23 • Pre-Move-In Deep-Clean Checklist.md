@@ -13,24 +13,24 @@
 
 ### Second-Floor Guest Bedroom
 - [x] Empty drawers and wardrobes, vacuum interiors ✅ 2025-08-04
-- [ ] Wipe interiors with diluted Blue Wonder (1 : 10)  
-- [ ] Dust textured walls using microfiber cloth on broom handle  
-- [ ] Clean light fixture and switch plate  
+- [x] Wipe interiors with diluted Blue Wonder (1 : 10) ✅ 2025-08-05
+- [x] Dust textured walls using microfiber cloth on broom handle ✅ 2025-08-06
+- [x] Clean light fixture and switch plate ✅ 2025-08-06
 - [ ] Clean window tracks, handle, inside and outside glass  
-- [ ] Vacuum floor edges, then damp-mop laminate (pH-neutral cleaner)  
+- [x] Vacuum floor edges, then damp-mop laminate (pH-neutral cleaner) ✅ 2025-08-06
 
 ### First-Floor Main Bedroom
-- [ ] Empty dresser and wardrobe, vacuum and wipe interiors  
-- [ ] Dust walls and blinds, wipe blinds with APC solution  
-- [ ] Check curtains – decide to launder or discard  
+- [x] Empty dresser and wardrobe, vacuum and wipe interiors ✅ 2025-08-06
+- [x] Dust walls and blinds, wipe blinds with APC solution ✅ 2025-08-06
+- [x] Check curtains – decide to launder or discard ✅ 2025-08-06
 - [ ] Clean door tops, frames and window glass  
-- [ ] Vacuum and damp-mop laminate floor  
+- [x] Vacuum and damp-mop laminate floor ✅ 2025-08-06
 
 ### First-Floor Willa’s Bedroom
-- [ ] Empty dresser, vacuum and wipe inside  
-- [ ] Dust walls, blinds and light fixture  
+- [x] Empty dresser, vacuum and wipe inside ✅ 2025-08-06
+- [x] Dust walls, blinds and light fixture ✅ 2025-08-06
 - [ ] Clean window glass and frame  
-- [ ] Vacuum and damp-mop floor  
+- [x] Vacuum and damp-mop floor ✅ 2025-08-06
 
 ### Hall and Stairs (first and second floor)
 - [ ] Vacuum stair treads then damp-wipe railing  
@@ -147,9 +147,11 @@
 - [ ] Dustpan & brush  
 
 ## Supplies to Buy / Bring
-- [x] HG Oven & Grill cleaner  
+- [ ] HG Oven & Grill cleaner  
 - [ ] HG Kalkweg (limescale remover)  
+- [ ] HG Tapijt & Meubel upholstery shampoo  
 - [ ] Enzymatic drain foam (Xenos Bio-Drain or similar)  
+- [ ] Telescopic duster pole (3 m reach)  
 - [ ] Laminate-safe floor cleaner (pH-neutral)  
 - [ ] Extra micro-fibre mop pads  
 - [x] Box of nitrile gloves ✅ 2025-08-04
