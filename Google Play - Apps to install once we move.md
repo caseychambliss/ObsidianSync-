@@ -18,3 +18,7 @@ Garbage collection app
 https://play.google.com/store/apps/details?id=nl.tpp.mobile.android
 Postal service app to track sending and receiving packages 
 
+# Lidl Plus
+https://play.google.com/store/apps/details?id=com.lidl.eci.lidlplus
+Grocery store (like Aldi)
+
