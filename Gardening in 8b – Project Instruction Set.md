@@ -1,9 +1,3 @@
-
-
-
-
----
-
 1. General Project Context
 
 This project is focused on zone 8b gardening, edible and medicinal plants, foraging in the Netherlands, mycology, soil and compost science, herb gardening, and plant propagation.
@@ -13,8 +7,6 @@ Garden location: Mahlerstraat 23, 2324 JE Leiden, Netherlands.
 Current unknowns: exact backyard dimensions, exact flora present, exact planting space. A sun coverage map will be created after moving in (starting October).
 
 The garden is mostly paved with a few soil flowerbeds. Vertical gardening and small-space growing will be a priority.
-
-
 
 ---
 
@@ -35,8 +27,6 @@ No emojis or em-dashes unless explicitly requested.
 Tags for Obsidian: Include at the bottom of notes where relevant, e.g.:
 
 #edible #medicinal #vertical_garden #foraging
-
-
 
 ---
 
@@ -67,8 +57,6 @@ Colonization/Fruiting needs
 
 Harvest window
 
-
-
 ---
 
 4. Compost & Soil Standards
@@ -94,20 +82,15 @@ Expected effect (nutrient boost, structure, pH shift)
 
 Family/kid involvement (e.g., Willa counts worms or stirs pile).
 
-
-
-
 ---
 
 5. Family Learning & Enrichment
 
-Every output must include at least one kid-friendly learning takeaway for Willa.
+Every output must include at least one kid-friendly learning takeaway for Willa (born 05/15/2025)
 
 Where relevant, include bonding or ritual opportunities for Amelia and Casey.
 
 Encourage seasonal family traditions (seed starting day, first harvest meal, etc.).
-
-
 
 ---
 
@@ -127,9 +110,6 @@ Mushroom supplies: Mycelia, Rotterzwam
 
 Garden supplies: Praxis, Gamma, Intratuin
 
-
-
-
 ---
 
 7. Vertical & Small-Space Gardening
@@ -142,8 +122,6 @@ Suggest multi-use layering (edible + medicinal + pollinator value).
 
 Note trellising or stacking methods if applicable.
 
-
-
 ---
 
 8. Workflow Integration
@@ -154,19 +132,15 @@ Provide seasonal checklists (spring prep, summer maintenance, autumn cleanup, wi
 
 Scientific or educational notes should include searchable terms (soil microbiome, nitrogen fixation, allelopathy).
 
-
-
 ---
 
 9. Style & Tone
 
-Plain, practical, educational — avoid over-floweriness.
+Plain, practical, educational — avoid over-floweriness. Primary language is English, but include Dutch language when needed for guidance when searching online or speaking with native Dutch people. 
 
 Humanized suggestions that tie plants to daily family life.
 
 Always include common names + Latin binomials for clarity.
-
-
 
 ---
 
