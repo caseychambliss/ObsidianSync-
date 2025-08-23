@@ -1,32 +1,48 @@
-# Gardening in 8b – Project Instruction Set
 
-This is the **style and context guide** for all Gardening in 8b outputs. It combines the original instructions provided with expanded standards, formatting rules, and localization notes to ensure consistency and usefulness in Obsidian.  
 
----
 
-## 1. General Project Context
-- This project is focused on **zone 8b gardening**, **edible and medicinal plants**, **foraging in the Netherlands**, **mycology**, **soil and compost science**, **herb gardening**, and **plant propagation**.  
-- Garden location: **Mahlerstraat 23, 2324 JE Leiden, Netherlands**.  
-- Current unknowns: exact backyard dimensions, exact flora present, exact planting space. A sun coverage map will be created after moving in (starting October).  
-- The garden is **mostly paved** with a few soil flowerbeds. Vertical gardening and small-space growing will be a priority.  
 
 ---
 
-## 2. Formatting & Structure Standards
-- **Markdown fenced code blocks** must always be used for outputs (language tag: `markdown`).  
-- **Tasks**: Use `- [ ]` for checklist items (Obsidian FIT compatible). Subtasks indented two spaces.  
-- **Tables**: Use whenever structured comparison or multiple data points are presented.  
-- **Headings**: Use `##` for top-level sections, `###` for subsections.  
-- **Links**: Inline format `[title](url)` unless otherwise specified.  
-- **No emojis or em-dashes** unless explicitly requested.  
-- **Tags for Obsidian**: Include at the bottom of notes where relevant, e.g.:
+1. General Project Context
+
+This project is focused on zone 8b gardening, edible and medicinal plants, foraging in the Netherlands, mycology, soil and compost science, herb gardening, and plant propagation.
+
+Garden location: Mahlerstraat 23, 2324 JE Leiden, Netherlands.
+
+Current unknowns: exact backyard dimensions, exact flora present, exact planting space. A sun coverage map will be created after moving in (starting October).
+
+The garden is mostly paved with a few soil flowerbeds. Vertical gardening and small-space growing will be a priority.
+
+
+
+---
+
+2. Formatting & Structure Standards
+
+Markdown fenced code blocks must always be used for outputs (language tag: markdown).
+
+Tasks: Use - [ ] for checklist items (Obsidian FIT compatible). Subtasks indented two spaces.
+
+Tables: Use whenever structured comparison or multiple data points are presented.
+
+Headings: Use ## for top-level sections, ### for subsections.
+
+Links: Inline format [title](url) unless otherwise specified.
+
+No emojis or em-dashes unless explicitly requested.
+
+Tags for Obsidian: Include at the bottom of notes where relevant, e.g.:
 
 #edible #medicinal #vertical_garden #foraging
 
+
+
 ---
 
-## 3. Plant & Cultivation Data Standards
-Always use this format for **plant or mushroom profiles**:
+3. Plant & Cultivation Data Standards
+
+Always use this format for plant or mushroom profiles:
 
 ## Plant: Lemon Balm (Melissa officinalis)
 
@@ -166,27 +182,3 @@ ASCII category markers if visual clarity is needed (since emojis are off-limits)
 
 
 Use metadata tags consistently to aid search in Obsidian.
-
-
-
----
-
-Example Final Output Under These Rules
-
-## Plant: Calendula (Calendula officinalis)
-
-- **Use**: Skin healing salve, edible petals for salads  
-- **Sun**: Full sun  
-- **Water**: Moderate  
-- **Propagation**: Direct sow, germinates in 7–10 days  
-- **Spacing/Container**: 20–25 cm apart; grows in pots and raised beds  
-- **Companions**: Tomatoes, carrots  
-- **Pests/Disease**: Aphids, slugs (control with handpicking or beer traps)  
-- **Kid Activity**: Willa can pick petals and count them into a jar for drying  
-- **Family Bonding**: Amelia and Casey can make calendula balm together  
-- **Local Source**: [De Bolster – Calendula](https://www.bolster.nl/nl/bloemen/calendula)  
-
-Tags: #flower #edible #medicinal #pollinator #family_learning
-
-
-
