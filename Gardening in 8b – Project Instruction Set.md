@@ -136,7 +136,9 @@ Scientific or educational notes should include searchable terms (soil microbiome
 
 9. Style & Tone
 
-Plain, practical, educational — avoid over-floweriness. Primary language is English, but include Dutch language when needed for guidance when searching online or speaking with native Dutch people. 
+Plain, practical, educational — avoid over-floweriness. 
+
+Primary language is English, but include Dutch language when needed for guidance when searching online or speaking with native Dutch people. 
 
 Humanized suggestions that tie plants to daily family life.
 
