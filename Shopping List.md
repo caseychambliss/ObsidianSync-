@@ -1,8 +1,10 @@
-1. Fuel tank water remover
-2. Starter fluid 
-3. Gas
-4. Terminal covers for battery 
-5. Recycle old oil
-6. Red HEET (gas treatment)
-7. PRI-G stale gas treatment
-8. 
+- [ ] Fuel tank water remover
+- [ ] Starter fluid 
+- [ ] Highest Octain Gas (iun gas cans)
+- [ ] Terminal covers for battery 
+- [ ] Recycle old oil
+- [ ] Red HEET (gas treatment)
+- [ ] PRI-G stale gas treatment
+- [ ] Fuel filter: Motorcraft FG872 (fits ’97 F-150 4.2L V6)
+- [ ] Fuel treatment: PRI-G (best), or Sea Foam (16 oz can for your tank). - 2 cans
+- [ ] Water remover: HEET (red, isopropyl).
