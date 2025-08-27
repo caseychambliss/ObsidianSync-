@@ -12,6 +12,7 @@ Errands
 	- [ ] Willa's prescription
 	- [ ] Chick-fil-a gift certificate
 	- [ ] Card for Willa's teacher
+	- [ ] Airheads 
 - [ ] Walmart
 	- [ ] Recycle old oil
 	- [ ] fuel line for push mower
@@ -24,7 +25,7 @@ Errands
 	- [ ] Anything I can't get at Walmart for the truck
 
 Load in Truck
-- [ ] Old oil
-- [ ] Gas cans
-- [ ] Petri dishes
-- [ ] Coconut coir 
+- [x] Old oil ✅ 2025-08-27
+- [x] Gas cans ✅ 2025-08-27
+- [x] Petri dishes ✅ 2025-08-27
+- [x] Coconut coir ✅ 2025-08-27
