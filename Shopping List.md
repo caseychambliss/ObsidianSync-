@@ -14,6 +14,8 @@ Errands
 	- [ ] Card for Willa's teacher
 - [ ] Walmart
 	- [ ] Recycle old oil
+	- [ ] fuel line for push mower
+	- [ ] battery for John Deere
 	- [ ] Starter Fluid
 	- [ ] Red HEET (Gas Treatment)
 	- [ ] Fuel filter: Motorcraft FG872 (fits ’97 F-150 4.2L V6)
