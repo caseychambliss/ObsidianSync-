@@ -18,7 +18,8 @@ Errands
 	- [ ] Red HEET (Gas Treatment)
 	- [ ] Fuel filter: Motorcraft FG872 (fits ’97 F-150 4.2L V6)
 	- [ ] Fuel treatment: PRI-G (best), or Sea Foam (16 oz can for your tank). - 2 cans
-- [ ] 
+- [ ] Autozone
+	- [ ] Anything I can't get at Walmart for the truck
 
 Load in Truck
 - [ ] Old oil
