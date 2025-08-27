@@ -14,13 +14,13 @@ Errands
 	- [ ] Card for Willa's teacher
 	- [ ] Airheads 
 - [ ] Walmart
-	- [ ] Recycle old oil
+	- [x] Recycle old oil ✅ 2025-08-27
 	- [ ] fuel line for push mower
 	- [ ] battery for John Deere
 	- [ ] Starter Fluid
-	- [ ] Red HEET (Gas Treatment)
+	- [x] Red HEET (Gas Treatment) ✅ 2025-08-27
 	- [ ] Fuel filter: Motorcraft FG872 (fits ’97 F-150 4.2L V6)
-	- [ ] Fuel treatment: PRI-G (best), or Sea Foam (16 oz can for your tank). - 2 cans
+	- [x] Fuel treatment: PRI-G (best), or Sea Foam (16 oz can for your tank). - 2 cans ✅ 2025-08-27
 - [ ] Autozone
 	- [ ] Anything I can't get at Walmart for the truck
 
